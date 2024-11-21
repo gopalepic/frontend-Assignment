@@ -1,7 +1,7 @@
 import React from "react";
 import two from "../assets/Images/two.svg";
 import filter from "../assets/Images/filter.svg";
-import searchIcons from "../assets/Images/searchIcon.svg";
+import searchIcons from "../assets/Images/SearchIcon.svg";
 import { TextField } from "@radix-ui/themes";
 
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@radix-ui/react-tabs";
