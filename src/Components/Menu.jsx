@@ -1,6 +1,6 @@
 import React from "react";
 import dashboard from "../assets/Images/dashboard.svg";
-import integration from "../assets/Images/integration.svg";
+import integration from "../assets/Images/Integration.svg";
 import performanceManagement from "../assets/Images/performanceManagement.svg";
 import reportanalysis from "../assets/Images/reportanalysis.svg";
 import EmployeeManagement from "../assets/Images/EmployeeManagement.svg";
